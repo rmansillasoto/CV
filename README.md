@@ -2,7 +2,7 @@
 
 ![Screenshot](docs/RaulMansilla2022CV.png)
 
-## Licencia
+## License
 
 	The MIT License (MIT)
 
